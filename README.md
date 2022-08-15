@@ -74,6 +74,9 @@
      Clustering: KMeans algorithm is used to create clusters in the preprocessed data. The optimum number of clusters 
      is selected
 
+### Deployment 
+Built cicd pipeline using circleci and deployed the code on heroku 
+
 
 ## app link : https://waferdefaultusingml.herokuapp.com/
 
